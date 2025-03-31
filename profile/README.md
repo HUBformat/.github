@@ -1,5 +1,8 @@
  # FPHUB-RISCV: Floating-Point HUB Unit for RISC-V
 
+Grant  RPDC2023-145800-I00 funded by:
+![Logos of the Spanish Government, European Union NextGenerationEU, Spanish Recovery and Resilience Plans, and Spanish State Research Agency.](res/Logo_MICIU+NextG+PRTR+AEI.jpg "Logos")
+
 ## Overview
 
 **FPHUB-RISCV** is an open-source project developing a Floating-Point Unit (FPU) for the **RISC-V** architecture, designed for low-power and resource-constrained applications. This unit is based on the **FPHUB format**, an alternative to IEEE 754 that simplifies hardware complexity while maintaining computational precision.
