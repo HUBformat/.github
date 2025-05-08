@@ -26,10 +26,10 @@ This project is open-source, but certain aspects of the **FPHUB format** are cov
 ### Patents
 
 - Hormigo, Javier; Villalba-Moreno, Julio. Sumadores coma flotante y conversores, ES2546916B2, 2015. [Link](https://patentscope.wipo.int/search/en/detail.jsf?docId=ES152442316)
-- Hormigo, Javier; Villalba-Moreno, Julio. Multiplicadores coma flotante y conversores asociados, ES2546895B2, 2015. [Link](https://patentscope.wipo.int/search/en/detail.jsf?docId=ES152442315)
-- Hormigo, Javier; Villalba-Moreno, Julio. Dispositivos para operaciones de multiplicación-suma fusionadas en coma flotante y conversores asociados, ES2546899B2, 2015. [Link](https://patentscope.wipo.int/search/en/detail.jsf?docId=ES152442319)
-- Hormigo, Javier; Villalba-Moreno, Julio. Dispositivos coma flotante y conversores, ES2546898B2, 2015. [Link](https://patentscope.wipo.int/search/en/detail.jsf?docId=ES152442318)
-- Hormigo, Javier; Villalba-Moreno, Julio. Unidades aritméticas en coma fija y conversores asociados, ES2546915B2, 2015. [Link](https://patentscope.wipo.int/search/en/detail.jsf?docId=ES152442317)
+- Hormigo, Javier; Villalba-Moreno, Julio. Multiplicadores coma flotante y conversores asociados, ES2546895B2, 2015. [Link](https://patentscope.wipo.int/search/en/detail.jsf?docId=ES2546895)
+- Hormigo, Javier; Villalba-Moreno, Julio. Dispositivos para operaciones de multiplicación-suma fusionadas en coma flotante y conversores asociados, ES2546899B2, 2015. [Link](https://patentscope.wipo.int/search/en/detail.jsf?docId=ES2546899)
+- Hormigo, Javier; Villalba-Moreno, Julio. Dispositivos coma flotante y conversores, ES2546898B2, 2015. [Link](https://patentscope.wipo.int/search/en/detail.jsf?docId=ES2546898)
+- Hormigo, Javier; Villalba-Moreno, Julio. Unidades aritméticas en coma fija y conversores asociados, ES2546915B2, 2015. [Link](https://patentscope.wipo.int/search/en/detail.jsf?docId=ES2546915)
 
 ## Acknowledgments
 
