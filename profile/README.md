@@ -1,7 +1,7 @@
- # FPHUB-RISCV: Floating-Point HUB Unit for RISC-V
-
 Grant  RPDC2023-145800-I00 funded by:
 ![Logos of the Spanish Government, European Union NextGenerationEU, Spanish Recovery and Resilience Plans, and Spanish State Research Agency.](res/MICIU+NextG+PRTR+AEI.svg "Logos")
+
+# FPHUB-RISCV: Floating-Point HUB Unit for RISC-V
 
 ## Overview
 
