@@ -41,7 +41,13 @@ The following works form the foundation of this project and represent key contri
 
 - Hormigo, J., & Villalba, J. (2015). Optimizing DSP circuits by a new family of arithmetic operators. *Conference Record - Asilomar Conference on Signals, Systems and Computers*, 2015-April, 871–875. [https://doi.org/10.1109/ACSSC.2014.7094576](https://doi.org/10.1109/ACSSC.2014.7094576)
 
+- Hormigo, J., & Villalba, J. (2015). Simplified floating-point units for high dynamic range image and video systems. *Proceedings of the International Symposium on Consumer Electronics, ISCE*, 2015-August. [https://doi.org/10.1109/ISCE.2015.7177797](https://doi.org/10.1109/ISCE.2015.7177797)
+
+- Munoz, S. D., & Hormigo, J. (2015). Improving fixed-point implementation of QR decomposition by rounding-to-nearest. *Proceedings of the International Symposium on Consumer Electronics, ISCE*, 2015-August. [https://doi.org/10.1109/ISCE.2015.7177822](https://doi.org/10.1109/ISCE.2015.7177822)
+
 - Hormigo, J., & Villalba, J. (2016). Measuring Improvement When Using HUB Formats to Implement Floating-Point Systems under Round-to-Nearest. *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*, 24(6), 2369–2377. [https://doi.org/10.1109/TVLSI.2015.2502318](https://doi.org/10.1109/TVLSI.2015.2502318)
+
+- Hormigo, J., & Villalba, J. (2016). New formats for computing with real-numbers under round-to-nearest. *IEEE Transactions on Computers, 65*(7), 2158–2168. [https://doi.org/10.1109/TC.2015.2479623](https://doi.org/10.1109/TC.2015.2479623)
 
 - Villalba-Moreno, J. (2016). Digit Recurrence Floating-Point Division under HUB Format. *Proceedings - Symposium on Computer Arithmetic*, 2016-September, 79–86. [https://doi.org/10.1109/ARITH.2016.17](https://doi.org/10.1109/ARITH.2016.17)
 
@@ -57,17 +63,10 @@ The following works form the foundation of this project and represent key contri
 
 - Hormigo, J., Villalba-Moreno, J., & Gonzalez-Navarro, S. (2020). Floating-Point Fused Multiply-Add under HUB Format. *Proceedings - Symposium on Computer Arithmetic*, 2020-June, 1–8. [https://doi.org/10.1109/ARITH48897.2020.00010](https://doi.org/10.1109/ARITH48897.2020.00010)
 
-- Garrido, M., Bautista, V. M., Portas, A., & Hormigo, J. (2024). Advanced Quantization Schemes to Increase Accuracy, Reduce Area, and Lower Power Consumption in FFT Architectures. *IEEE Transactions on Circuits and Systems I: Regular Papers*, 1–11. [https://doi.org/10.1109/TCSI.2024.3421348](https://doi.org/10.1109/TCSI.2024.3421348)
+- Hormigo, J., & Muñoz, S. D. (2021). Efficient Floating-Point Givens Rotation Unit. *Circuits, Systems, and Signal Processing, 40*(5), 2419–2442. [https://doi.org/10.1007/S00034-020-01580-X](https://doi.org/10.1007/S00034-020-01580-X)
 
 - Murillo, R., Hormigo, J., Barrio, A. A. D., & Botella, G. (2024). HUB Meets Posit: Arithmetic Units Implementation. *IEEE Transactions on Circuits and Systems II: Express Briefs, 71*(1), 440–444. [https://doi.org/10.1109/TCSII.2023.3307488](https://doi.org/10.1109/TCSII.2023.3307488)
 
 - Bandera, G., Salamero, J., Moreto, M., & Villalba, J. (2024). Floating Point HUB Adder for RISC-V Sargantana Processor. *arXiv preprint* arXiv:2401.09464. [https://arxiv.org/abs/2401.09464v1](https://arxiv.org/abs/2401.09464v1)
 
-- Hormigo, J., & Muñoz, S. D. (2021). Efficient Floating-Point Givens Rotation Unit. *Circuits, Systems, and Signal Processing, 40*(5), 2419–2442. [https://doi.org/10.1007/S00034-020-01580-X](https://doi.org/10.1007/S00034-020-01580-X)
-
-- Hormigo, J., & Villalba, J. (2015). Simplified floating-point units for high dynamic range image and video systems. *Proceedings of the International Symposium on Consumer Electronics, ISCE*, 2015-August. [https://doi.org/10.1109/ISCE.2015.7177797](https://doi.org/10.1109/ISCE.2015.7177797)
-
-- Munoz, S. D., & Hormigo, J. (2015). Improving fixed-point implementation of QR decomposition by rounding-to-nearest. *Proceedings of the International Symposium on Consumer Electronics, ISCE*, 2015-August. [https://doi.org/10.1109/ISCE.2015.7177822](https://doi.org/10.1109/ISCE.2015.7177822)
-
-- Hormigo, J., & Villalba, J. (2016). New formats for computing with real-numbers under round-to-nearest. *IEEE Transactions on Computers, 65*(7), 2158–2168. [https://doi.org/10.1109/TC.2015.2479623](https://doi.org/10.1109/TC.2015.2479623)
-
+- Garrido, M., Bautista, V. M., Portas, A., & Hormigo, J. (2024). Advanced Quantization Schemes to Increase Accuracy, Reduce Area, and Lower Power Consumption in FFT Architectures. *IEEE Transactions on Circuits and Systems I: Regular Papers*, 1–11. [https://doi.org/10.1109/TCSI.2024.3421348](https://doi.org/10.1109/TCSI.2024.3421348)
